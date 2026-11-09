@@ -1,0 +1,30 @@
+header div{
+    background-color:rgb(194, 119, 21);
+    display:flex;
+   justify-content: center;
+   align-items: center;
+
+}
+header h1{
+    color:rgb(28, 28, 228);
+}
+header div p{
+    text-transform: uppercase;
+}
+#me{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:10px;
+}
+#me a{
+    text-decoration: none;
+}
+main div{
+    background-color: aqua;
+}
+#sai{
+    margin:30px;
+    border-left: 1px solid salmon;
+    border-left: 7px solid salmon;
+}
